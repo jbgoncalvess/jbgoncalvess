@@ -21,6 +21,6 @@ if (mat[i][0]) printf ("%d - %s", i, mat[i]);
 }
 /*
 Uso 102 no fgets assumindo que os 100 caracteres do enunciado se
-referem a letras válidas, e a linha a ser armazenada pode ter mais
-um, que é o \n.
+referem a letras vÃ¡lidas, e a linha a ser armazenada pode ter mais
+um, que Ã© o \n.
 */
