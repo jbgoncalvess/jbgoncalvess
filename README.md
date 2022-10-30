@@ -1,4 +1,4 @@
-Hi, I'm jbgoncalves. 
+Hello, I'm jbgoncalves. 
 
 I'm currently studying at the Federal University of Santa Maria (UFSM). I work in the area of ​​computer networks, in a project of analysis and optimization of the university's wireless network
 <!---
