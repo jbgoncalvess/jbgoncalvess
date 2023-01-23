@@ -10,7 +10,8 @@ jbgoncalves/jbgoncalves is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
+
 </br>
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/XDuckBlackX/count.svg" /></p>
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/jbgoncalvess/count.svg" /></p>
 
 #Modificar somente o nome do usuário(é necessário que seja da mesma maneira que esta no seu perfil)
