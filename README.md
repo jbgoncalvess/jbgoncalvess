@@ -17,7 +17,6 @@ You can click the Preview link to take a look at your changes.
 </br>
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/jbgoncalvess/count.svg" /></p>
 
-#IG
 
 <div align="center">
   <div align="center">
