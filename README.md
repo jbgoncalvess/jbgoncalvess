@@ -17,10 +17,3 @@ You can click the Preview link to take a look at your changes.
 </br>
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/jbgoncalvess/count.svg" /></p>
 
-
-<div align="center">
-  <div align="center">
-  <a href="https://github.com/jbgoncalvess"> 
-    <img height="180=em" src="https://github-readme-stats.vercel.app/api?username=jbgoncalvess&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    </div>
-
