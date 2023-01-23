@@ -1,3 +1,4 @@
+<!---
 Hello, I'm jbgoncalves.
 
 Study at the Federal University of Santa Maria, in the Computer Networks course. 
@@ -13,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 <!---
 #Visualizações na página
 --->
-
+<!---
 </br>
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/jbgoncalvess/count.svg" /></p>
 
@@ -22,7 +23,7 @@ You can click the Preview link to take a look at your changes.
   <a href="https://github.com/jbgoncalvess">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jbgoncalvess&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
     </div>
-
+--->
     ________________________________________________________________________________________________________________________________________________________
     
     <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
