@@ -21,7 +21,7 @@ p {
           Exemplos de exercícios em C! 
      
           Exercícios resolvidos! 🥷
-	</div>
+	
 </p>
 </body>
 </html>
