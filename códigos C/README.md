@@ -23,8 +23,6 @@ p {
           Exercícios resolvidos! 🥷
 	</div>
 </p>
-
-Este texto será vermelho.
 </body>
 </html>
 
