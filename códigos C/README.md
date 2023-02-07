@@ -1,14 +1,6 @@
-<!DOCTYPE HTML>
-<html>
-<body>
-
-     <div align="center"
-     
+<div align="center"
+   
           Exemplos de exercícios em C! 
      
           Exercícios resolvidos! 🥷
-          
-     </div>
-     
-</body>
-</html>
+</div>          
