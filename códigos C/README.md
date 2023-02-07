@@ -2,9 +2,11 @@
 <html>
 <body>
 
-<div align="center"
+     <div align="center"
      
-     Exemplos de exercícios em C! 
+          Exemplos de exercícios em C! 
      
-     Exercícios resolvidos! 🥷
-</div>
+          Exercícios resolvidos! 🥷
+     </div>
+</body>
+</html>
