@@ -3,10 +3,7 @@
 <head>
 <style>
 body {
-	color: red;
-}
-h1 {
-	color: #00FF00;
+	color: white;
 }
 p {
 	color: rgb(0,0,255)
