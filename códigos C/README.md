@@ -1,7 +1,24 @@
-<div align="center"
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.redtext {
+	color: red;
+}
+</style>
+</head>
+<body>
 
-Exemplos de exercícios em C! 
+
+<p
+     <div align="center"
+
+          Exemplos de exercícios em C! 
      
-Exercícios resolvidos! 🥷
+          Exercícios resolvidos! 🥷
 
-</div>
+     </div>
+</p>
+
+</body>
+</html>
