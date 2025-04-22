@@ -38,15 +38,6 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=jbgoncalvess&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
-
-<div align="center">
-  <a href="https://www.instagram.com/jbgoncalvess" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://www.linkedin.com/in/jardel-gon%C3%A7alves-25b263327" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</div>
    
   
 ### Tools/Skills:
