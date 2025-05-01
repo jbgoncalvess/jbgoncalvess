@@ -1,33 +1,6 @@
-<!---
-Hello, I'm jbgoncalves.
-
-Study at the Federal University of Santa Maria, in the Computer Networks course. 
-
-Scholarship holder in the Wireless Network Analysis and Development project. 
-
-💻💻
-<!---
-jbgoncalves/jbgoncalves is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-<!---
-#Visualizações na página
---->
-<!---
-</br>
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/jbgoncalvess/count.svg" /></p>
-
-<div align="center">
-  <div align="center">
-  <a href="https://github.com/jbgoncalvess">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jbgoncalvess&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-    </div>
---->
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
- 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Fear+is+the+first+of+many+enemies)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Jardel+Gonçalves!;Formado+em+Redes+de+Computadores+pela+UFSM;Focado+em+automação+de+TI+⚙)](https://git.io/typing-svg)
 
 
 <div align="center">  
