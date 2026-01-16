@@ -6,11 +6,11 @@
 <div align="center">
   <img
     width="49%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jbgoncalvess&theme=github_dark"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jbgoncalvess&theme=solarized_dark"
   />
   <img
     width="49%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jbgoncalvess&theme=github_dark"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jbgoncalvess&theme=solarized_dark"
   />
 </div>
 
